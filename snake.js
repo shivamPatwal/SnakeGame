@@ -11,9 +11,9 @@ cs=66;
 game_over=false;
 score=0;
 food_img=new Image();
-food_img.src="apple.png";
+food_img.src="icon/apple.png";
 trophy=new Image();
-trophy.src="trophy.png";
+trophy.src="icon/trophy.png";
 
 food=getRandomFood();
 snake={ 
